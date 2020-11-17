@@ -23,13 +23,13 @@ namespace HelloWorld
             Console.WriteLine(firstName);
             Console.WriteLine(isWorking);
 
-            var num = 3;    // defualt int
+            //var num = 3;    // defualt int
 
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
             // format string    ^^ 
 
-            const float Pi = 3.14f; //cannot change const
+            //const float Pi = 3.14f; //cannot change const
 
             //Implicit type conversion
             byte a = 1; // 00000001
@@ -39,7 +39,7 @@ namespace HelloWorld
             float d = c;
 
             int e = 1;  // wont compile
-            byte f = e; // int>byte / int is 4bytes : 3 bytes will be lost
+            //byte f = e; // int>byte / int is 4bytes : 3 bytes will be lost
 
             int g = 1;
             byte h = (byte)g; // change of data loss^^ force conversion
@@ -49,7 +49,7 @@ namespace HelloWorld
 
             // non compatable type conversion
             string k = "1";
-            int l = (int)k; // wont compile
+            //int l = (int)k; // wont compile
 
             // ^^
             string st = "1";

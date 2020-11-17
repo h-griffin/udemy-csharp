@@ -4,7 +4,7 @@ namespace Operators
 {
     class Operators
     {
-        static void Main(string[] args)
+        static void thirdMain(string[] args)
         {
             var a = 1;
             var b = 2;
@@ -18,3 +18,4 @@ namespace Operators
         }
     }
 }
+

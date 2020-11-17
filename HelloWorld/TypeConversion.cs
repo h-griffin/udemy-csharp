@@ -4,7 +4,7 @@ namespace TypeConversion
 {
     class TypeConversion
     {
-        static void Main(string[] args)
+        static void secondMain(string[] args)
         {
             // IMPLICIT 
             byte b = 1; //1byte
