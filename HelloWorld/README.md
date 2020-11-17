@@ -99,3 +99,11 @@ x: isOver18
 y: isCitizen
 z: isEligible
 Often, it’s a good practice to prefix Boolean names with IS or HAS (if possible).
+
+
+## COMMENTS
+// single line
+
+/* multi
+line */
+

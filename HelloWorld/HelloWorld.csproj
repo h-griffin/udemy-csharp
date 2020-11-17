@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Math\" />
+    <Folder Include="PrimativeTypes\" />
+    <Folder Include="NonPrimativeTypes\" />
+  </ItemGroup>
 </Project>
