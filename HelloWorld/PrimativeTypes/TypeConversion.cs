@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace TypeConversion
+namespace TypeConversion.PrimativeTypes
 {
     class TypeConversion
     {
-        static void secondMain(string[] args)
+        static void TypeConversionMain(string[] args)
         {
             // IMPLICIT 
             byte b = 1; //1byte
