@@ -9,5 +9,6 @@
     <Folder Include="Math\" />
     <Folder Include="PrimativeTypes\" />
     <Folder Include="NonPrimativeTypes\" />
+    <Folder Include="ReferenceValueTypes\" />
   </ItemGroup>
 </Project>
