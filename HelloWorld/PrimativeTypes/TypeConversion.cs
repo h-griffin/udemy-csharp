@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TypeConversion.PrimativeTypes
+namespace Basics.PrimativeTypes
 {
     class TypeConversion
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace HelloWorld.NonPrimativeTypes
+namespace Basics.NonPrimativeTypes
 {
     public class Array
     {

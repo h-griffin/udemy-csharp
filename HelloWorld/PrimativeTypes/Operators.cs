@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Operators.PrimativeTypes
+namespace Basics.PrimativeTypes
 {
     class Operators
     {

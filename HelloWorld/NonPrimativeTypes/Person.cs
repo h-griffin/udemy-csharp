@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld.NonPrimativeTypes
+namespace Basics.NonPrimativeTypes
 {
     // one class per file
     public class Person

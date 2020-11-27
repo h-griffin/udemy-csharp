@@ -1,25 +1,23 @@
 ﻿using System;
-namespace HelloWorld.NonPrimativeTypes
+namespace Basics.NonPrimativeTypes
 {
-    
-    // use for number of related constants
     public enum ShippingMethod //new type = namespace level
     {
-        // enums are internally integers
-
-        //if no value given default first is 0 and icrements by 1
         RegularAirMail = 1,
         RegisteredAirMail = 2,
         Express = 3,
+
+        // use for number of related constants
+        // enums are internally integers
+        // like dict or obj
+
+        //if no value given default first is 0 and icrements by 1
     }
 
-
-    public class Enums
+    class Enums
     {
         static void Main(string[] args)
         {
-            //name value pairs/const
-
             // messy -not used
             const int RegularAirMail = 1;
             const int RegisteredAirMail = 2;
@@ -37,11 +35,9 @@ namespace HelloWorld.NonPrimativeTypes
 
 
             var methodName = "Express"; //parse string to shipping method
-            // parsing : getting string convert to different type
+            // parsing : string convert to different type
 
             var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName); //string to enum (returns obj, must cast and store)
-
-
 
         }
     }

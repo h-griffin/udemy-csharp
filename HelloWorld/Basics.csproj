@@ -10,5 +10,7 @@
     <Folder Include="PrimativeTypes\" />
     <Folder Include="NonPrimativeTypes\" />
     <Folder Include="ReferenceValueTypes\" />
+    <Folder Include="ControlFlow\" />
+    <Folder Include="Excersizes\" />
   </ItemGroup>
 </Project>

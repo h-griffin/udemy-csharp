@@ -1,5 +1,5 @@
 ﻿using System;
-namespace HelloWorld.ReferenceValueTypes
+namespace Basics.ReferenceValueTypes
 {
     class ReferenceVsValue
     {

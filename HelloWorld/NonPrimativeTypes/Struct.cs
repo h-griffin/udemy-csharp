@@ -1,5 +1,5 @@
 ﻿using System;
-namespace HelloWorld.NonPrimativeTypes
+namespace Basics.NonPrimativeTypes
 {
     // use struct for small obj / more effecient for thousands of copies/object creation
     public struct RgbColor

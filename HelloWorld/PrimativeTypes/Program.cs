@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld.PrimativeTypes
+namespace Basics.PrimativeTypes
 {
     class Program
     {
