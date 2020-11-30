@@ -1,5 +1,5 @@
 ﻿using System;
-namespace HelloWorld.Math // project > folder
+namespace Basics.Math // project > folder
 {
     public class Calculator
     {
