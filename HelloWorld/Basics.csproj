@@ -12,5 +12,8 @@
     <Folder Include="ReferenceValueTypes\" />
     <Folder Include="ControlFlow\" />
     <Folder Include="Excersizes\" />
+    <Folder Include="ArraysAndLists\" />
+    <Folder Include="DatesAndTimes\" />
+    <Folder Include="Text\" />
   </ItemGroup>
 </Project>
