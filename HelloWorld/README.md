@@ -97,9 +97,10 @@ line */
     - you need to allocate memory
     - memmory allocated on heap (more sustainable)
     - garbage collected by CLR
+```
+```
 Create obj of type point
-```
-```
+
 public class Point
 {
     public int x;
