@@ -154,3 +154,12 @@ system.Text
 
 no itteration methods , manipulation methods only
 append insert remove ...
+
+
+procedural programming
+seperate from main into multiple methods
+
+
+
+object oriended programming
+
