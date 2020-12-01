@@ -15,5 +15,6 @@
     <Folder Include="ArraysAndLists\" />
     <Folder Include="DatesAndTimes\" />
     <Folder Include="Text\" />
+    <Folder Include="ProceduralProgramming\" />
   </ItemGroup>
 </Project>
