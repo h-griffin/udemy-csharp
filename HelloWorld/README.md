@@ -148,3 +148,9 @@ Case: stacking shares code block
 
 ```
 
+string builder
+
+system.Text
+
+no itteration methods , manipulation methods only
+append insert remove ...

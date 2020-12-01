@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace Basics.Text
 {
     class Strings
@@ -71,12 +72,17 @@ namespace Basics.Text
 
             string st = k.ToString();    // "1234"
             string t = k.ToString("C");  // "$1,234.00"  c = currency
-            string t = k.ToString("C0"); // "$1,234"     no dicimal (c1 for1)
+            string u = k.ToString("C0"); // "$1,234"     no dicimal (c1 for1)
 
 
 
+            // SUMMARIZING TEXT
 
-            
+            var sentence = "this is going to be a really really really really long text";
+            var summary = StringUtility.SummerizeText(sentence, 25);
+
+
         }
+
     }
 }
