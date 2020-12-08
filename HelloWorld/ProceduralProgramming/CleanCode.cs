@@ -15,7 +15,7 @@ namespace Basics.ProceduralProgramming
 
         }
 
-        // responsible for logic 
+        // responsible for reverse logic 
         public static string ReverseName(string name)
         {
             var array = new char[name.Length];
@@ -27,5 +27,7 @@ namespace Basics.ProceduralProgramming
 
             return reversed;
         }
+
+        
     }
 }

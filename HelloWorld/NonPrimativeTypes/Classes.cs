@@ -1,6 +1,7 @@
 ﻿using System;
 
 using Basics.Math;
+using Basics.NonPrimativeTypes;
 
 namespace HelloWorld.NonPrimativeTypes
 {

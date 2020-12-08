@@ -163,3 +163,13 @@ seperate from main into multiple methods
 
 object oriended programming
 
+### Debugging ###
+- F9 > breakpoint
+- ctrl + F5 > run file without debug mode
+- F5 > run debug mode
+- Shift + F5 quit debug mode
+- F10 > step over : execute 1 line at a time
+- F11 > step into
+- Shift + F11 > step out
+
+- watch window : display variable values 
