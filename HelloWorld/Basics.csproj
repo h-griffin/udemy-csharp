@@ -16,5 +16,6 @@
     <Folder Include="DatesAndTimes\" />
     <Folder Include="Text\" />
     <Folder Include="ProceduralProgramming\" />
+    <Folder Include="WorkingWithFiles\" />
   </ItemGroup>
 </Project>
